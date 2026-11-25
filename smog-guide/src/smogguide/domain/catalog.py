@@ -1,0 +1,1 @@
+"""YAML recommendations catalog loader."""
